@@ -153,7 +153,7 @@ class ProductController extends BaseController
             'name' => 'required',
 
             'detail' => 'required'
-
+//             test
         ]);
 
 
