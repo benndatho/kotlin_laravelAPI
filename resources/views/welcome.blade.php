@@ -7,13 +7,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <!-- VENDOR CSS -->
-    <link rel="stylesheet" href="{{ asset('assets-app/new/vendor/bootstrap/css_/bootstrap.min.css_') }}">
-    <link rel="stylesheet" href="{{ asset('assets-app/new/vendor/font-awesome/css_/font-awesome.min.css_') }}">
-    <link rel="stylesheet" href="{{ asset('assets-app/new/vendor/linearicons/style.css_') }}">
+    <link rel="stylesheet" href="{{ asset('assets-app/new/vendor/bootstrap/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets-app/new/vendor/font-awesome/css/font-awesome.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets-app/new/vendor/linearicons/style.css') }}">
     <!-- MAIN CSS -->
-    <link rel="stylesheet" href="{{ asset('assets-app/new/css_/main.css_') }}">
+    <link rel="stylesheet" href="{{ asset('assets-app/new/css/main.css') }}">
     <!-- FOR DEMO PURPOSES ONLY. You should remove this in your project -->
-    <link rel="stylesheet" href="{{ asset('assets-app/new/css_/demo.css_') }}">
+    <link rel="stylesheet" href="{{ asset('assets-app/new/css/demo.css') }}">
     <!-- GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700" rel="stylesheet">
     <!-- ICONS -->
@@ -162,11 +162,11 @@
         });
     });
 </script>
-<script src="{{ asset('assets-app/new/vendor/jquery/jquery.min.js_') }}"></script>
-<script src="{{ asset('assets-app/new/vendor/bootstrap/js_/bootstrap.min.js_') }}"></script>
-<script src="{{ asset('assets-app/new/vendor/bootstrap/js_/bootstrap.min.js_') }}"></script>
-<script src="{{ asset('assets-app/new/vendor/jquery-slimscroll/jquery.slimscroll.min.js_') }}"></script>
-<script src="{{ asset('assets-app/new/scripts/klorofil-common.js_') }}"></script>
+<script src="{{ asset('assets-app/new/vendor/jquery/jquery.min.js') }}"></script>
+<script src="{{ asset('assets-app/new/vendor/bootstrap/js/bootstrap.min.js') }}"></script>
+<script src="{{ asset('assets-app/new/vendor/bootstrap/js/bootstrap.min.js') }}"></script>
+<script src="{{ asset('assets-app/new/vendor/jquery-slimscroll/jquery.slimscroll.min.js') }}"></script>
+<script src="{{ asset('assets-app/new/scripts/klorofil-common.js') }}"></script>
 
 <script src="assets/vendor/jquery/jquery.min.js"></script>
 <script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script>
